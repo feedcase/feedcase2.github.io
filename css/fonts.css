@@ -816,9 +816,9 @@
 	content: "\f099";
 }
 
-.fa-facebook-f:before,
-.fa-facebook:before {
-	content: "\f09a";
+.fa-clock-f:before,
+.fa-clock:before {
+	content: "\f017";
 }
 
 .fa-github:before {
@@ -10707,6 +10707,10 @@
 
 .material-icons-location_on:before {
 	content: "\e0c8";
+}
+
+.material-icons-clock:before {
+	content: "\f017";
 }
 
 .material-icons-location_searching:before {
